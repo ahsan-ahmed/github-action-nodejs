@@ -6,6 +6,9 @@
   "directories": {
     "test": "test"
   },
+  "engines": {
+    "node": "10.x"
+  },
   "dependencies": {
     "axios": "^0.19.2",
     "express": "^4.17.1"
@@ -23,7 +26,7 @@
     "url": "git+https://github.com/ahsan-ahmed/nodejs-github-action.git"
   },
   "author": "ahsan-ahmed",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/ahsan-ahmed/nodejs-github-action/issues"
   },
